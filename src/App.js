@@ -1,4 +1,4 @@
-
+import DrawCard from './DrawCard';
 import './App.css';
 
 function App() {
